@@ -17,4 +17,4 @@ How to run the tests
 
 - Firstly you need to make sure you a row on TestData.x;sx file
 - Expand Tests >> right click and run Add_And_Verify_USer_Tests 
-- The wait untill the tests finishes running the confirm they all passed
+- The wait until the tests finishes running the confirm they all passed
